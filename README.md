@@ -1,8 +1,8 @@
 ## Ola meu nome é Andre, sou o criador da SkyProject, sou um programador senior formado nas linguagens abaixo
 <div align="center">
   <a href="https://github.com/MullerDS">
-  <img height="154em" src="https://github-readme-stats.vercel.app/api?username=MullerDs&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MullerDs&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MullerDs&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MullerDs&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Miller-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,7 +11,7 @@
   <img align="center" alt="Miller-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Miller-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Miller-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Miller-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/976161205628596294/980167369777360936/download20220506144609.pngwidth=676&height=676">
+  <img align="right" alt="Miller-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/976161205628596294/980167369777360936/download20220506144609.png">
 </div>
   
   ##
